@@ -1,76 +1,38 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Bakery Shop
 
-# Project Name
+> This is a complete version of the Bakery Shop Website.
 
-> One paragraph statement about the project.
+![screenshot]()
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+My goal here is to Build a Bakery Shop website from scratch, take a look at what i'v built [Live Demo](). 🙂
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+- (HTML/CSS/JavaScript)
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+The basic requirements for building the executable are:
 
-### Install
+- A working browser application (Google chrome, Mozilla Fire fox, Microsoft edge ...)
+- VSCode or any other equivalent code editor
+- Node Package Manager (For installing packages like Lighthous, webhint & stylelint used for checking for debugging bad codes before deployment)
 
-### Usage
+# Getting Started
 
-### Run tests
+#### Cloning the project
 
-### Deployment
+```
+git clone  https://github.com/L2oukmane/Bakery-Shop.git <Your-Build-Directory>
+```
 
+## License
 
+All source code files are licensed under the permissive MIT license
+(https://opensource.org/licenses/MIT) unless marked differently in a particular folder/file.
 
-## Authors
+## Author
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+- **Loukmane Oustani** - [github](https://github.com/L2oukmane), [twitter](https://twitter.com/LoukmaneOustani), [linkedin](https://www.linkedin.com/in/loukmane-oustani-221668211/)
